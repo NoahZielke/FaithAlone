@@ -71,7 +71,7 @@ header {
 }
 
 .article-body {
-    font-family: Roboto, system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
     font-size: large;
     line-height: 1.5;
 }
