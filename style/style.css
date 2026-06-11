@@ -71,7 +71,7 @@ header {
 }
 
 .article-body {
-    font-family: sans-serif;
+    font-family: system-ui, sans-serif;
     font-size: large;
     line-height: 1.5;
     font-weight: 400;
